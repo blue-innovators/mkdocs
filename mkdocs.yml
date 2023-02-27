@@ -1,0 +1,12 @@
+site_name: مستندات شرکت نوآوران
+
+theme:
+  name: material
+  language: 'fa'
+  direction: 'rtl'
+  font: false
+  feature:
+    tabs: false
+
+extra_css:
+  - 'stylesheets/extra.css'
